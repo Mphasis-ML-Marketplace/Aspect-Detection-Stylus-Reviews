@@ -1,0 +1,1 @@
+{"review":"This tip of stylus is hard. Tip is replacable. This is very cheap and affordable.","topics":[{"aspect":{"Tip Characteristics":0.565920443446541,"Touch Performance":0.35666508624041426},"sentence":"tip hard"},{"aspect":{"Tip Characteristics":0.9539930988112204},"sentence":"tip replacable"},{"aspect":{"Value for money":0.7352727073067524},"sentence":"cheap affordable"}]}
